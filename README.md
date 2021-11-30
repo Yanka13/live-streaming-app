@@ -1,5 +1,5 @@
 Welcome to this tutorial!
-We will learn how we can create a live streaming audio & video app, where we will plug our super deeplearning models with a few lines of codes! 🔥
+We will learn how we can create a live streaming audio & video app, where we will plug our super deep learning models with a few lines of codes! 🔥
 
 We are going to use **Streamlit**, and more specifically the amazing **streamlit-webrtc** component to do so.
 
