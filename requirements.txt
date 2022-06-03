@@ -9,10 +9,9 @@ av
 tensorflow
 
 #for handling image
-opencv-python-headless
-opencv-contrib-python-headless
 mediapipe
 cvzone
+opencv-python-headless==4.5.4.60
 
 #other
 matplotlib
